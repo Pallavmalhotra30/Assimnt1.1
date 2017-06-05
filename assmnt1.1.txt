@@ -1,0 +1,3 @@
+Q.Why java Known to be a Platform independent language?
+ans.Java is known as platform independent becoz of generating 
+the byte code of the high level program and run that byte code on JVM.

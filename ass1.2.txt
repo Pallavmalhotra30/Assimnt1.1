@@ -1,0 +1,21 @@
+Q.Differentiate Between JVM,JDK and JRE?
+Ans.
+a.JVM
+
+->JVM is an abstract machine.it is a specification that provides
+runtime environment in which java bytecode can be executed.
+JVM are available for many hardware and software platform.
+    The JVM performs following main tasks:
+1.Load code
+2.verifies code
+3.Execute code
+4.provides runime environment
+
+b.JDK
+ ->JDK is an acronym for java development kit. it physically exists.
+contains JRE+development tools.
+
+c.JRE
+->JRE is an acronym for java runtime environment.it is used to provied
+runtime environmenti contains set of libraries + other
+file JVM uses at runtime  
