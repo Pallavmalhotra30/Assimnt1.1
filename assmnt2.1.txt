@@ -1,0 +1,35 @@
+Q.Java Architecture.?
+
+ ->  bachelor's degree in a related field, such as computer science or information science is usually necessary for most Java architect positions. 
+     These programs typically cover programming languages, data management, systems and software architecture, networks and security.
+  
+
+1. Compilation and interpretation:
+
+-> Java combines both the approaches of compilation and interpretation.
+First, java compiler compiles the source code into bytecode. At the run time,
+Java Virtual Machine (JVM) interprets this bytecode and generates machine code 
+which will be directly executed by the machine in which java program runs.
+ 
+2. JVM(Java Virtual Machine):
+
+->JVM is a component which provides an environment for running Java programs. 
+JVM interprets the bytecode into machine code which will be executed the machine in which the Java program runs.
+
+3. JRE and Java Architecture:
+
+->Java Runtime Environment contains JVM, class libraries and other supporting components.
+This bytecode will be stored in class files. During runtime, this bytecode will be loaded.
+verified and   JVM interprets the bytecode into machine code which will be executed in the 
+machine in which the Java program runs.
+
+a.Java Runtime Environment performs main tasks respectively.
+
+1. Loads the class
+This is done by the class loader
+
+2. Verifies the bytecode
+This is done by bytecode verifier.
+
+3. Interprets the bytecode
+This is done by the JVM
